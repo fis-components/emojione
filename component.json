@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/Ranks/emojione.git",
+    "description": "Emoji One is a complete set of emojis designed for the web. It includes libraries to easily convert unicode characters to shortnames (:smile:) and shortnames to our custom emoji images. PNG and SVG formats provided for the emoji images.",
+    "name": "emojione",
+    "main": "emojione.js",
+    "version": "1.5.2",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {}
+}
